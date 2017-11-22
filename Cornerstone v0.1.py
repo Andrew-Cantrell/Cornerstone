@@ -5,9 +5,8 @@ import os
 # Basic demographics survey with tailored responses
 
 age = 25
-stateofresidence = "NY"
 militarystatus = 'n'
-gender = 'm'
+
 
 if age >= 21:
     print('You are old enough to drive a car and a commercial vehicle')
