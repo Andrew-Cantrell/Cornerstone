@@ -2,7 +2,11 @@ import sys
 import random
 import os
 
-age = 22
+
+
+age = 25
+militarystatus = 'n'
+gender = 'm'
 
 if age >= 21:
     print('You are old enough to drive a car and a commercial vehicle')
@@ -15,3 +19,18 @@ if ((age >=0)and (age<=17)):
 elif(age >=18) and (age<=20):
     print ( 'You are in in the legal majority but you are not old enough to drink')
 else : print ( 'Have a drink on me')
+
+if militarystatus == 'y':
+    print('USA! USA! USA!')
+else : print ('You did not serve in the Armed Forces')
+
+if gender == 'm':
+    print('Thank you for taking the time to complete this survey, sir.')
+elif gender == 'f':
+    print("Thank you for taking the time to complete this survey, ma'am.")
+else : print ("Thank you for taking the time to complete this survey.")
+
+
+
+
+
