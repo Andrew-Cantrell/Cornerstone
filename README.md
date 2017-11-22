@@ -16,6 +16,8 @@ python editor download: https://www.jetbrains.com/pycharm/download/download-than
 >>> select open new scratch file
 >>> select save-as and then choose a save-as name
 
+>>> Testing updates in editor to push to Git
+
 
 
 
