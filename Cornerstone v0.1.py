@@ -2,9 +2,10 @@ import sys
 import random
 import os
 
-
+# Basic demographics survey with tailored responses
 
 age = 25
+stateofresidence = "NY"
 militarystatus = 'n'
 gender = 'm'
 
@@ -24,13 +25,11 @@ if militarystatus == 'y':
     print('USA! USA! USA!')
 else : print ('You did not serve in the Armed Forces')
 
+if stateofresidence == 'GA':
+    print ("Georgia's on my mind")
+
 if gender == 'm':
     print('Thank you for taking the time to complete this survey, sir.')
 elif gender == 'f':
     print("Thank you for taking the time to complete this survey, ma'am.")
 else : print ("Thank you for taking the time to complete this survey.")
-
-
-
-
-
