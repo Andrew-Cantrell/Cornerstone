@@ -14,7 +14,7 @@ python editor download: https://www.jetbrains.com/pycharm/download/download-than
 2. Once you've launched the editor do the following
 >>> select file on the toolbar
 >>> select open new scratch file
->>> select save as and then choose a saveas name
+>>> select save-as and then choose a save-as name
 
 
 
