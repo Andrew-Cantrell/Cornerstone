@@ -2,11 +2,14 @@ import sys
 import random
 import os
 
-# Basic demographics survey with tailored responses
+# Basic demographics survey with tailored responses. Load into editor and press the run key to initiate survey questions and responses
 
-age = 25
-militarystatus = 'n'
 
+
+age = int(input("Enter your age: "))
+stateofresidence = type(input("Enter your state of residence i.e. GA, NY, CA: "))
+militarystatus = type(input("Did you serve in the military? Y/N: "))
+gender = type(input("Please enter your gender. M/F/O: "))
 
 if age >= 21:
     print('You are old enough to drive a car and a commercial vehicle')
