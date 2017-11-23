@@ -23,15 +23,15 @@ elif(age >=18) and (age<=20):
     print ( 'You are in in the legal majority but you are not old enough to drink')
 else : print ( 'Have a drink on me')
 
-if militarystatus == 'y':
+if militarystatus is "Y":
     print('USA! USA! USA!')
 else : print ('You did not serve in the Armed Forces')
 
-if stateofresidence == 'GA':
+if stateofresidence is "GA":
     print ("Georgia's on my mind")
 
-if gender == 'm':
+if gender is "m":
     print('Thank you for taking the time to complete this survey, sir.')
-elif gender == 'f':
+elif gender is "f":
     print("Thank you for taking the time to complete this survey, ma'am.")
 else : print ("Thank you for taking the time to complete this survey.")
