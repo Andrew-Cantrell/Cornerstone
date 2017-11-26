@@ -23,6 +23,10 @@ elif(age >=18) and (age<=20):
     print ( 'You are in in the legal majority but you are not old enough to drink')
 else : print ( 'Have a drink on me')
 
+if age >= 45:
+    print("You're in Generation X")
+else : print ("You're not in Generation X")
+
 if militarystatus is "Y":
     print('USA! USA! USA!')
 else : print ('You did not serve in the Armed Forces')
