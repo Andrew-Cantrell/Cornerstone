@@ -16,8 +16,10 @@ python editor download: https://www.jetbrains.com/pycharm/download/download-than
 >>> select open new scratch file
 >>> select save-as and then choose a save-as name
 
-Testing updates in editor to push to Git - still trying to figure out how to set up a new file altogether
-
+To Dos: 
+1. Add one new functionality per week and write sample code that showcases that functionality
+2. Save each new functionality as a .py file and name the file for that functionality
+3. Create usable library of code to deploy for more complex functionality. 
 
 
 
