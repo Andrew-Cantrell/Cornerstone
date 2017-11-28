@@ -21,5 +21,8 @@ To Dos:
 2. Save each new functionality as a .py file and name the file for that functionality
 3. Create usable library of code to deploy for more complex functionality. 
 
+Dive Into Python: 
+http://www.diveintopython.net/toc/index.html
+
 
 
